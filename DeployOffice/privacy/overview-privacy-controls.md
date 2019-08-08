@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Memberi pentadbir Office gambaran keseluruhan kawalan privasi bagi Office 365 ProPlus, termasuk data diagnostik dan pengalaman terhubung.
 hideEdit: true
-ms.openlocfilehash: a65fd2a6b7169c9098d233a926041d9cbc599886
-ms.sourcegitcommit: 3f5de6281b8e92c6c41a800f4374211188460320
+ms.openlocfilehash: a362a50b3d75e0792623745ef32fb93b4e458a41
+ms.sourcegitcommit: 0fd23324ba1364fa1f8dd1578adf25946adde90f
 ms.translationtype: HT
 ms.contentlocale: ms-MY
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34701125"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36238937"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Gambaran keseluruhan kawalan privasi bagi Office 365 ProPlus
 
@@ -34,9 +34,11 @@ Sebagai sebahagian daripada perubahan ini, terdapat unsur antara muka pengguna (
 
 > [!IMPORTANT]
 > - Perubahan ini digunakan pada Access, Excel, OneNote, Outlook, PowerPoint, Publishe dan Word.
-> - Perubahan ini juga digunakan pada Project dan Visio versi desktop yang datang dengan sesetengah pelan langganan, seperti pelan Project Online Professional atau Visio Online Pelan 2.
-> - Versi 1904 dijangka akan tersedia dalam Saluran Separa Tahunan (Disasarkan) bulan September dan Saluran Separa Tahunan bulan Januari 2020.
-> - Kami akan melanjutkan kawalan privasi yang baru dan ditambah baik berikut kepada klien Office tambahan, termasuk Teams, Office untuk Mac, serta aplikasi mudah alih kami. Kami akan memberikan maklumat lanjut tentang perubahan berikut dalam bulan-bulan yang akan datang. Kami akan terus mendengar dengan baik maklum balas anda dan membuat penambahbaikan merentasi semua klien dan perkhidmatan Office 365.
+> - Perubahan ini juga digunakan pada yang berikut:
+>   - Aplikasi Office untuk Mac yang berikut: Excel, Outlook, OneNote, PowerPoint dan Word versi 16.28 atau kemudian.
+>   - Project dan Visio versi desktop versi 1904 atau kemudian yang datang dengan beberapa pelan langganan, seperti pelan Project Online Professional atau Visio Online Pelan 2.
+> - Kawalan privasi yang dikeluarkan dalam Versi 1904 dijangka akan tersedia dalam Saluran Setengah Tahunan (Jangkaan) dalam bulan September 2019 dan dalam Saluran Setengah Tahunan dalam bulan Januari 2020.
+> - Kami akan melanjutkan kawalan privasi yang baru dan dipertingkatkan ini pada klein Office tambahan, termasuk Teams dan aplikasi mudah alih kami. Kami akan memberikan maklumat lanjut tentang perubahan berikut dalam bulan-bulan yang akan datang. Kami akan terus mendengar dengan baik maklum balas anda dan membuat penambahbaikan merentasi semua klien dan perkhidmatan Office 365.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Data diagnostik yang dihantar daripada Office 365 ProPlus kepada Microsoft
 
@@ -63,12 +65,12 @@ Para pengguna anda tidak akan dapat menukar tahap data diagnostik peranti mereka
 Data diagnostik ini tidak termasuk nama pengguna, alamat e-mel mereka atau kandungan fail Office mereka. Sistem kami mencipta ID unik yang dikaitkan dengan data diagnostik pengguna anda. Apabila kami menerima data diagnostik yang menunjukkan bahawa salah satu aplikasi kami telah ranap 100 kali, ID unik ini membolehkan kami menentukan jika ia merupakan seorang pengguna tunggal yang telah ranap 100 kali ataupun 100 pengguna berlainan yang telah ranap satu kali. Kami tidak menggunakan ID unik ini untuk mengenal pasti pengguna tertentu.
 
 Untuk melihat data diagnostik yang dihantarkan kepada Microsoft, anda boleh menggunakan Pemapar Data Diagnostik, yang boleh dimuat turun dan dipasang secara percuma daripada Microsoft Store.
-
-Untuk maklumat lanjut, lihat berikut:
+7 Untuk maklumat lanjut, lihat yang berikut:
 
 - [Data diagnostik yang diperlukan untuk Office](required-diagnostic-data.md)
 - [Data diagnostik opsyenal untuk Office](optional-diagnostic-data.md)
 - [Guna seting dasar untuk mengurus kawalan privasi bagi Office 365 ProPlus](manage-privacy-controls.md)
+- [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office untuk Mac](mac-privacy-preferences.md)
 - [Menggunakan Pemapar Data Diagnostik dengan Office](https://support.office.com/article/cf761ce9-d805-4c60-a339-4e07f3182855)
 
 ## <a name="connected-experiences-for-office-365-proplus"></a>Pengalaman terhubung bagi Office 365 ProPlus
@@ -93,6 +95,7 @@ Untuk maklumat lanjut, lihat berikut:
 
 - [Pengalaman terhubung dalam Office](connected-experiences.md)
 - [Guna seting dasar untuk mengurus kawalan privasi bagi Office 365 ProPlus](manage-privacy-controls.md)
+- [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office untuk Mac](mac-privacy-preferences.md)
 
 ## <a name="optional-connected-experiences-for-office-365-proplus"></a>Pengalaman terhubung opsyenal bagi Office 365 ProPlus
 
@@ -102,12 +105,13 @@ Pengalaman terhubung opsyenal berikut tidak diliputi oleh perjanjian komersial o
 
 Disebabkan pengalaman terhubung opsyenal berikut dikawal oleh terma dan syarat yang berbeza, anda uruskan ia secara berasingan daripada pengalaman terhubung yang disebutkan di atas. Sebagai pentadbir organisasi, anda boleh menggunakan seting dasar untuk memilih sama ada untuk membuatkan pengalaman terhubung berikut tersedia, sebagai kumpulan, untuk pengguna anda. Jika anda tidak mengkonfigurasikan seting dasar ini, pengalaman terhubung opsyenal berikut tersedia untuk pengguna anda.
 
-Walaupun anda memilih untuk membuatkan pengalaman terhubung opsyenal berikut tersedia untuk pengguna anda, pengguna anda akan mempunyai opsyen untuk mematikan pengalaman terhubung opsyenal sebagai kumpulan dengan pergi ke **Fail** > **Akaun** > **Privasi Akaun** > **Urus Seting**. Pengguna anda hanya akan mempunyai pilihan ini jika mereka mendaftar masuk ke Office menggunakan kelayakan organisasi mereka (kadangkala dirujuk sebagai akaun kerja atau akaun sekolah), tidak jika mereka mendaftar masuk dengan alamat e-mel peribadi.
+Walaupun anda memilih untuk membuatkan pengalaman bersambung opsyenal ini tersedia kepada pengguna anda, pengguna akan mempunyai pilihan untuk mematikan pengalaman bersambung opsyenal ini dengan pergi ke [kotak dialog seting privasi](https://support.office.com/article/3e7bc183-bf52-4fd0-8e6b-78978f7f121b). Pengguna anda hanya akan mempunyai pilihan ini jika mereka mendaftar masuk ke Office menggunakan kelayakan organisasi mereka (kadangkala dirujuk sebagai akaun kerja atau akaun sekolah), tidak jika mereka mendaftar masuk dengan alamat e-mel peribadi.
 
 Untuk maklumat lanjut, lihat berikut:
 
 - [Gambaran keseluruhan pengalaman terhubung opsyenal dalam Office](optional-connected-experiences.md)
 - [Guna seting dasar untuk mengurus kawalan privasi bagi Office 365 ProPlus](manage-privacy-controls.md)
+- [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office untuk Mac](mac-privacy-preferences.md)
 
 ## <a name="required-service-data-for-connected-experiences"></a>Data perkhidmatan yang diperlukan bagi pengalaman terhubung
 
