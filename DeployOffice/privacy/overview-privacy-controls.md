@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Memberi pentadbir Office gambaran keseluruhan kawalan privasi bagi Office 365 ProPlus, termasuk data diagnostik dan pengalaman terhubung.
 hideEdit: true
-ms.openlocfilehash: a362a50b3d75e0792623745ef32fb93b4e458a41
-ms.sourcegitcommit: 0fd23324ba1364fa1f8dd1578adf25946adde90f
+ms.openlocfilehash: ab024c4ce2eb4d81809880b607e084932658be3c
+ms.sourcegitcommit: 3f2319ff2f8fcde87ae5ffefa3b956a8239c4aed
 ms.translationtype: HT
 ms.contentlocale: ms-MY
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36238937"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36441607"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Gambaran keseluruhan kawalan privasi bagi Office 365 ProPlus
 
@@ -65,7 +65,8 @@ Para pengguna anda tidak akan dapat menukar tahap data diagnostik peranti mereka
 Data diagnostik ini tidak termasuk nama pengguna, alamat e-mel mereka atau kandungan fail Office mereka. Sistem kami mencipta ID unik yang dikaitkan dengan data diagnostik pengguna anda. Apabila kami menerima data diagnostik yang menunjukkan bahawa salah satu aplikasi kami telah ranap 100 kali, ID unik ini membolehkan kami menentukan jika ia merupakan seorang pengguna tunggal yang telah ranap 100 kali ataupun 100 pengguna berlainan yang telah ranap satu kali. Kami tidak menggunakan ID unik ini untuk mengenal pasti pengguna tertentu.
 
 Untuk melihat data diagnostik yang dihantarkan kepada Microsoft, anda boleh menggunakan Pemapar Data Diagnostik, yang boleh dimuat turun dan dipasang secara percuma daripada Microsoft Store.
-7 Untuk maklumat lanjut, lihat yang berikut:
+
+Untuk maklumat lanjut, lihat berikut:
 
 - [Data diagnostik yang diperlukan untuk Office](required-diagnostic-data.md)
 - [Data diagnostik opsyenal untuk Office](optional-diagnostic-data.md)
