@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Memberi pentadbir Office gambaran keseluruhan kawalan privasi bagi Office 365 ProPlus, termasuk data diagnostik dan pengalaman terhubung.
 hideEdit: true
-ms.openlocfilehash: ab024c4ce2eb4d81809880b607e084932658be3c
-ms.sourcegitcommit: 3f2319ff2f8fcde87ae5ffefa3b956a8239c4aed
+ms.openlocfilehash: 329d3de3fd4ff20518a8a49f01d7c5bfcd75342b
+ms.sourcegitcommit: de39739d7ab82666ff1389be360d74c518ae97f6
 ms.translationtype: HT
 ms.contentlocale: ms-MY
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36441607"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36980346"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Gambaran keseluruhan kawalan privasi bagi Office 365 ProPlus
 
@@ -37,7 +37,8 @@ Sebagai sebahagian daripada perubahan ini, terdapat unsur antara muka pengguna (
 > - Perubahan ini juga digunakan pada yang berikut:
 >   - Aplikasi Office untuk Mac yang berikut: Excel, Outlook, OneNote, PowerPoint dan Word versi 16.28 atau kemudian.
 >   - Project dan Visio versi desktop versi 1904 atau kemudian yang datang dengan beberapa pelan langganan, seperti pelan Project Online Professional atau Visio Online Pelan 2.
-> - Kawalan privasi yang dikeluarkan dalam Versi 1904 dijangka akan tersedia dalam Saluran Setengah Tahunan (Jangkaan) dalam bulan September 2019 dan dalam Saluran Setengah Tahunan dalam bulan Januari 2020.
+> - Kawalan privasi ini disertakan dalam Versi 1908 Saluran Separa Tahunan (Disasarkan) yang dikeluarkan pada 10 September 2019. Ia dijangka akan tersedia dalam Saluran Separa Tahunan pada Januari 2020.
+> - Kawalan privasi ini dijadualkan tersedia pada pertengahan bulan Oktober 2019 untuk versi iOS bagi Excel, OneNote, PowerPoint, Visio dan Word. Kami akan memberikan maklumat lanjut pada awal bulan Oktober.
 > - Kami akan melanjutkan kawalan privasi yang baru dan dipertingkatkan ini pada klein Office tambahan, termasuk Teams dan aplikasi mudah alih kami. Kami akan memberikan maklumat lanjut tentang perubahan berikut dalam bulan-bulan yang akan datang. Kami akan terus mendengar dengan baik maklum balas anda dan membuat penambahbaikan merentasi semua klien dan perkhidmatan Office 365.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Data diagnostik yang dihantar daripada Office 365 ProPlus kepada Microsoft
