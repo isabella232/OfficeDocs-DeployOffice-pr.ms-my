@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Memberi pentadbir Office gambaran keseluruhan kawalan privasi bagi Office 365 ProPlus, termasuk data diagnostik dan pengalaman terhubung.
 hideEdit: true
-ms.openlocfilehash: 329d3de3fd4ff20518a8a49f01d7c5bfcd75342b
-ms.sourcegitcommit: de39739d7ab82666ff1389be360d74c518ae97f6
+ms.openlocfilehash: 708c8b1dae02f54d4c6a6195cec9513c8639b62d
+ms.sourcegitcommit: aed9a0908021ffc80baa7159a66b63dd4f9f28e4
 ms.translationtype: HT
 ms.contentlocale: ms-MY
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36980346"
+ms.lasthandoff: 10/08/2019
+ms.locfileid: "37417419"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Gambaran keseluruhan kawalan privasi bagi Office 365 ProPlus
 
@@ -39,7 +39,8 @@ Sebagai sebahagian daripada perubahan ini, terdapat unsur antara muka pengguna (
 >   - Project dan Visio versi desktop versi 1904 atau kemudian yang datang dengan beberapa pelan langganan, seperti pelan Project Online Professional atau Visio Online Pelan 2.
 > - Kawalan privasi ini disertakan dalam Versi 1908 Saluran Separa Tahunan (Disasarkan) yang dikeluarkan pada 10 September 2019. Ia dijangka akan tersedia dalam Saluran Separa Tahunan pada Januari 2020.
 > - Kawalan privasi ini dijadualkan tersedia pada pertengahan bulan Oktober 2019 untuk versi iOS bagi Excel, OneNote, PowerPoint, Visio dan Word. Kami akan memberikan maklumat lanjut pada awal bulan Oktober.
-> - Kami akan melanjutkan kawalan privasi yang baru dan dipertingkatkan ini pada klein Office tambahan, termasuk Teams dan aplikasi mudah alih kami. Kami akan memberikan maklumat lanjut tentang perubahan berikut dalam bulan-bulan yang akan datang. Kami akan terus mendengar dengan baik maklum balas anda dan membuat penambahbaikan merentasi semua klien dan perkhidmatan Office 365.
+> - Kebanyakan aplikasi web untuk Office dijadualkan mula menggunakan kawalan privasi baru bagi [pengalaman bersambung pilihan](optional-connected-experiences.md) pada pertengahan bulan Oktober 2019. Aplikasi tersebut adalah seperti berikut: Excel untuk web, OneNote untuk web, PowerPoint untuk web, Visio untuk web, dan Word untuk web. Sebelum itu bermula, anda boleh menggunakan [perkhidmatan dasar awan Office](../overview-office-cloud-policy-service.md) untuk mengkonfigurasi [tetapan dasar](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) yang sesuai.
+> - Kami akan melanjutkan kawalan privasi yang baru dan dipertingkatkan ini kepada klien Office tambahan, termasuk Teams dan aplikasi mudah alih kami. Kami akan memberikan maklumat lanjut tentang perubahan berikut dalam bulan-bulan yang akan datang. Kami akan terus mendengar dengan baik maklum balas anda dan membuat penambahbaikan merentasi semua klien dan perkhidmatan Office 365.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Data diagnostik yang dihantar daripada Office 365 ProPlus kepada Microsoft
 
