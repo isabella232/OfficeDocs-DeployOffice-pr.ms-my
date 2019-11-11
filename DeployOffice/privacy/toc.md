@@ -3,6 +3,7 @@
 ## [Urus kawalan privasi dengan seting dasar](manage-privacy-controls.md)
 ## [Urus kawalan privasi dengan keutamaan (Mac)](mac-privacy-preferences.md)
 ## [Urus kawalan privasi dengan keutamaan (iOS)](ios-privacy-preferences.md)
+## [Uruskan kawalan privasi dengan seting dasar (Android)](android-privacy-controls.md)
 
 ## Data diagnostik
 ### [Data diagnostik yang diperlukan](required-diagnostic-data.md)

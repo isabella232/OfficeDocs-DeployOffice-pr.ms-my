@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Memberi pentadbir Office gambaran keseluruhan kawalan privasi bagi Office 365 ProPlus, termasuk data diagnostik dan pengalaman terhubung.
 hideEdit: true
-ms.openlocfilehash: 24a3d30d05fb2a1456e10d8a8036f31c25c14db7
-ms.sourcegitcommit: 02c4120c0b10bfe378d21d60699ae49aaef97834
+ms.openlocfilehash: 784bbf08626e6dc8571c416a74511c9f5feeceec
+ms.sourcegitcommit: acb22296532bbfdfcad4dc1e7162f812997fbdd1
 ms.translationtype: HT
 ms.contentlocale: ms-MY
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37510707"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38067361"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Gambaran keseluruhan kawalan privasi bagi Office 365 ProPlus
 
@@ -39,7 +39,8 @@ Sebagai sebahagian daripada perubahan ini, terdapat unsur antara muka pengguna (
 >   - Project dan Visio versi desktop versi 1904 atau kemudian yang datang dengan beberapa pelan langganan, seperti pelan Project Online Professional atau Visio Online Pelan 2.
 > - Kawalan privasi ini disertakan dalam Versi 1908 Saluran Separa Tahunan (Disasarkan) yang dikeluarkan pada 10 September 2019. Ia dijangka akan tersedia dalam Saluran Separa Tahunan pada Januari 2020.
 > - Kawalan privasi ini tersedia untuk Versi 2.30 dan lebih baru daripada versi iOS untuk Excel, OneNote, PowerPoint dan Word serta Versi 1.17 dan lebih baru bagi Visio Viewer untuk iOS.
-> - Kebanyakan aplikasi web untuk Office dijadualkan mula menggunakan kawalan privasi baru bagi [pengalaman bersambung pilihan](optional-connected-experiences.md) pada pertengahan bulan Oktober 2019. Aplikasi tersebut adalah seperti berikut: Excel untuk web, OneNote untuk web, PowerPoint untuk web, Visio untuk web, dan Word untuk web. Sebelum itu bermula, anda boleh menggunakan [perkhidmatan dasar awan Office](../overview-office-cloud-policy-service.md) untuk mengkonfigurasi [tetapan dasar](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) yang sesuai.
+> - Kawalan privasi ini tersedia untuk Versi 16.0.12226.10000 dan lebih baru bagi versi iOS untuk Excel, PowerPoint dan Word serta Versi 16.0.12228.20004 dan lebih baru bagi OneNote untuk Android.
+> - Kebanyakan Office untuk aplikasi web menggunakan kawalan privasi baru bagi [pengalaman terhubung pilihan](optional-connected-experiences.md). Aplikasi tersebut adalah seperti berikut: Excel untuk web, OneNote untuk web, PowerPoint untuk web, Visio untuk web, dan Word untuk web. Anda boleh menggunakan [perkhidmatan dasar awan Office](../overview-office-cloud-policy-service.md) untuk mengkonfigurasikan [seting dasar](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) yang sesuai.
 > - Kami akan melanjutkan kawalan privasi yang baru dan dipertingkatkan ini kepada klien Office tambahan, termasuk Teams dan aplikasi mudah alih kami. Kami akan memberikan maklumat lanjut tentang perubahan berikut dalam bulan-bulan yang akan datang. Kami akan terus mendengar dengan baik maklum balas anda dan membuat penambahbaikan merentasi semua klien dan perkhidmatan Office 365.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Data diagnostik yang dihantar daripada Office 365 ProPlus kepada Microsoft
@@ -75,6 +76,7 @@ Untuk maklumat lanjut, lihat berikut:
 - [Guna seting dasar untuk mengurus kawalan privasi bagi Office 365 ProPlus](manage-privacy-controls.md)
 - [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office untuk Mac](mac-privacy-preferences.md)
 - [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office pada peranti iOS](ios-privacy-preferences.md)
+- [Guna seting dasar untuk mengurus kawalan privasi bagi Office pada peranti Android](android-privacy-controls.md)
 - [Menggunakan Pemapar Data Diagnostik dengan Office](https://support.office.com/article/cf761ce9-d805-4c60-a339-4e07f3182855)
 
 ## <a name="connected-experiences-for-office-365-proplus"></a>Pengalaman terhubung bagi Office 365 ProPlus
@@ -101,6 +103,7 @@ Untuk maklumat lanjut, lihat berikut:
 - [Guna seting dasar untuk mengurus kawalan privasi bagi Office 365 ProPlus](manage-privacy-controls.md)
 - [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office untuk Mac](mac-privacy-preferences.md)
 - [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office pada peranti iOS](ios-privacy-preferences.md)
+- [Guna seting dasar untuk mengurus kawalan privasi bagi Office pada peranti Android](android-privacy-controls.md)
 
 ## <a name="optional-connected-experiences-for-office-365-proplus"></a>Pengalaman terhubung opsyenal bagi Office 365 ProPlus
 
@@ -118,6 +121,7 @@ Untuk maklumat lanjut, lihat berikut:
 - [Guna seting dasar untuk mengurus kawalan privasi bagi Office 365 ProPlus](manage-privacy-controls.md)
 - [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office untuk Mac](mac-privacy-preferences.md)
 - [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office pada peranti iOS](ios-privacy-preferences.md)
+- [Guna seting dasar untuk mengurus kawalan privasi bagi Office pada peranti Android](android-privacy-controls.md)
 
 ## <a name="required-service-data-for-connected-experiences"></a>Data perkhidmatan yang diperlukan bagi pengalaman terhubung
 
