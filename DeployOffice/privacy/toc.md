@@ -1,4 +1,4 @@
-# Privasi bagi Office 365 ProPlus
+# Privasi untuk Aplikasi Microsoft 365 untuk perusahaan
 
 ## [Gambaran keseluruhan kawalan privasi](overview-privacy-controls.md)
 
