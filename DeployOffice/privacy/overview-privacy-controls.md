@@ -13,7 +13,7 @@ ms.collection:
 ms.custom:
 - Ent_Office_ProPlus
 - Ent_Office_Privacy
-description: Menyediakan pentadbir Office dengan gambaran keseluruhan kawalan privasi untuk Aplikasi Microsoft 365 untuk perusahaan (sebelum ini dinamakan Office 365 ProPlus), termasuk untuk data diagnostik dan pengalaman terhubung.
+description: Memberi pentadbir Office gambaran keseluruhan kawalan privasi untuk Aplikasi Microsoft 365 untuk perusahaan (sebelum ini dinamakan Office 365 ProPlus), termasuk untuk data diagnostik dan pengalaman terhubung.
 hideEdit: true
 ms.openlocfilehash: e22388cb73a539e13f67163bf0b0e949b10be349
 ms.sourcegitcommit: 3890a23390edd0b5fdb2cf33613ec0778566cf97
@@ -24,9 +24,9 @@ ms.locfileid: "43993098"
 ---
 # <a name="overview-of-privacy-controls-for-microsoft-365-apps-for-enterprise"></a>Gambaran keseluruhan kawalan privasi untuk Aplikasi Microsoft 365 untuk perusahaan
 
-Microsoft komited untuk menyediakan anda dengan maklumat dan kawalan yang anda perlukan untuk membuat pilihan tentang cara data anda dikumpul dan digunakan apabila anda menggunakan Aplikasi Microsoft 365 untuk perusahaan (sebelum ini dinamakan Office 365 ProPlus).
+Microsoft komited untuk memberi anda maklumat dan kawalan yang anda perlukan untuk membuat pilihan tentang cara data anda dikumpul dan digunakan apabila anda menggunakan Aplikasi Microsoft 365 untuk perusahaan (sebelum ini dinamakan Office 365 ProPlus).
 
-Bermula dengan Versi 1904 Aplikasi Microsoft 365 untuk perusahaan, kami menyediakan anda dengan kawalan privasi yang baru, dikemas kini dan diperbaiki untuk bahagian berikut:
+Bermula dengan Versi 1904 Aplikasi Microsoft 365 untuk perusahaan, kami memberi anda kawalan privasi yang baru, dikemas kini dan diperbaik untuk bahagian berikut:
 - ***Data diagnostik*** yang dikumpulkan dan dihantar kepada Microsoft tentang perisian klien Office yang digunakan pada komputer yang menggunakan Windows dalam organisasi anda.
 - ***Pengalaman terhubung*** yang menggunakan kefungsian berasaskan awan bagi menyediakan ciri Office yang dipertingkatkan kepada anda serta pengguna anda.
 
@@ -36,12 +36,12 @@ Sebagai sebahagian daripada perubahan ini, terdapat unsur antara muka pengguna (
 > - Perubahan ini digunakan pada Access, Excel, OneNote, Outlook, PowerPoint, Publishe dan Word.
 > - Perubahan ini juga digunakan pada yang berikut:
 >   - Aplikasi Office untuk Mac yang berikut: Excel, Outlook, OneNote, PowerPoint dan Word versi 16.28 atau kemudian.
->   - Projek dan Visio Versi 1904 atau kemudian yang disertakan dengan beberapa pelan langganan, seperti Project Plan 5 atau Visio Plan 2.
-> - Kawalan privasi ini disertakan dalam Versi 1908 atau kemudian daripada Saluran Separa (Disasarkan) dan Saluran Separa Tahunan.
+>   - Project dan Visio untuk desktop versi 1904 atau lebih tinggi yang disertakan dengan beberapa pelan langganan, seperti Project Pelan 5 atau Visio Pelan 2.
+> - Kawalan privasi ini disertakan dalam Versi 1908 atau lebih tinggi bagi Saluran Separa Tahunan (Disasarkan) dan Saluran Separa Tahunan.
 > - Kawalan privasi ini tersedia untuk Versi 2.30 dan lebih baru daripada versi iOS untuk Excel, OneNote, PowerPoint dan Word serta Versi 1.17 dan lebih baru bagi Visio Viewer untuk iOS.
 > - Kawalan privasi ini tersedia untuk Versi 16.0.12226.10000 dan lebih baru bagi versi iOS untuk Excel, PowerPoint dan Word serta Versi 16.0.12228.20004 dan lebih baru bagi OneNote untuk Android.
 > - Kebanyakan Office untuk aplikasi web menggunakan kawalan privasi baru bagi [pengalaman terhubung pilihan](optional-connected-experiences.md). Aplikasi tersebut adalah seperti berikut: Excel untuk web, OneNote untuk web, PowerPoint untuk web, Visio untuk web, dan Word untuk web. Anda boleh menggunakan [perkhidmatan dasar awan Office](../overview-office-cloud-policy-service.md) untuk mengkonfigurasikan [seting dasar](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) yang sesuai.
-> - Kami akan melanjutkan kawalan privasi yang baru dan dipertingkatkan ini kepada klien Office tambahan, termasuk Teams dan aplikasi mudah alih kami. Kami akan memberikan maklumat lanjut tentang perubahan berikut dalam bulan-bulan yang akan datang. Kami akan mendengar dengan baik maklum balas anda dan membuat penambahbaikan merentasi semua klien dan perkhidmatan Office 365 (dan Microsoft 365).
+> - Kami akan melanjutkan kawalan privasi yang baru dan dipertingkatkan ini kepada klien Office tambahan, termasuk Teams dan aplikasi mudah alih kami. Kami akan memberikan maklumat lanjut tentang perubahan berikut dalam bulan-bulan yang akan datang. Kami akan mendengar maklum balas anda dengan baik dan membuat penambahbaikan merentasi semua klien dan perkhidmatan Office 365 (dan Microsoft 365).
 
 ## <a name="diagnostic-data-sent-from-microsoft-365-apps-for-enterprise-to-microsoft"></a>Data diagnostik dihantar daripada Aplikasi Microsoft 365 untuk perusahaan kepada Microsoft
 
@@ -49,7 +49,7 @@ Data diagnostik digunakan untuk memastikan Office selamat dan terkini, mengesan,
 
 Data diagnostik ini dikumpul dan dihantar kepada Microsoft tentang perisian klien Office yang digunakan pada komputer yang menjalankan Windows dalam organisasi anda.
 
-Terdapat tiga tahap data diagnostik untuk perisian klien Aplikasi Microsoft 365 untuk perusahaan yang anda boleh pilih daripada:
+Terdapat tiga tahap data diagnostik untuk perisian klien Aplikasi Microsoft 365 untuk perusahaan yang boleh anda pilih:
 
 - **Diperlukan** Data minimum yang diperlukan untuk memastikan Office selamat, terkini dan berfungsi seperti yang dijangkakan pada peranti ia dipasangkan.
 
@@ -73,7 +73,7 @@ Untuk maklumat lanjut, lihat berikut:
 
 - [Data diagnostik yang diperlukan untuk Office](required-diagnostic-data.md)
 - [Data diagnostik opsyenal untuk Office](optional-diagnostic-data.md)
-- [Gunakan seting dasar untuk mengurus kawalan privasi untuk Aplikasi Microsoft 365 untuk perusahaan](manage-privacy-controls.md)
+- [Gunakan seting dasar untuk mengurus kawalan privasi bagi Aplikasi Microsoft 365 untuk perusahaan](manage-privacy-controls.md)
 - [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office untuk Mac](mac-privacy-preferences.md)
 - [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office pada peranti iOS](ios-privacy-preferences.md)
 - [Guna seting dasar untuk mengurus kawalan privasi bagi Office pada peranti Android](android-privacy-controls.md)
@@ -100,7 +100,7 @@ Pengguna anda tidak akan dapat memilih sama ada untuk menghidupkan atau mematika
 Untuk maklumat lanjut, lihat berikut:
 
 - [Pengalaman terhubung dalam Office](connected-experiences.md)
-- [Gunakan seting dasar untuk mengurus kawalan privasi untuk Aplikasi Microsoft 365 untuk perusahaan](manage-privacy-controls.md)
+- [Gunakan seting dasar untuk mengurus kawalan privasi bagi Aplikasi Microsoft 365 untuk perusahaan](manage-privacy-controls.md)
 - [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office untuk Mac](mac-privacy-preferences.md)
 - [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office pada peranti iOS](ios-privacy-preferences.md)
 - [Guna seting dasar untuk mengurus kawalan privasi bagi Office pada peranti Android](android-privacy-controls.md)
@@ -118,7 +118,7 @@ Walaupun anda memilih untuk membuatkan pengalaman bersambung opsyenal ini tersed
 Untuk maklumat lanjut, lihat berikut:
 
 - [Gambaran keseluruhan pengalaman terhubung opsyenal dalam Office](optional-connected-experiences.md)
-- [Gunakan seting dasar untuk mengurus kawalan privasi untuk Aplikasi Microsoft 365 untuk perusahaan](manage-privacy-controls.md)
+- [Gunakan seting dasar untuk mengurus kawalan privasi bagi Aplikasi Microsoft 365 untuk perusahaan](manage-privacy-controls.md)
 - [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office untuk Mac](mac-privacy-preferences.md)
 - [Gunakan keutamaan untuk mengurus kawalan privasi bagi Office pada peranti iOS](ios-privacy-preferences.md)
 - [Guna seting dasar untuk mengurus kawalan privasi bagi Office pada peranti Android](android-privacy-controls.md)
@@ -145,7 +145,7 @@ Untuk maklumat lanjut, lihat [Data perkhidmtan yang diperlukan untuk Office](req
 
 ## <a name="essential-services-for-microsoft-365-apps-for-enterprise"></a>Perkhidmatan penting untuk Aplikasi Microsoft 365 untuk perusahaan
 
-Terdapat juga satu set perkhidmatan yang penting untuk cara Aplikasi Microsoft 365 untuk perusahaan berfungsi dan tidak boleh dinyahdayakan. Contohnya, perkhidmatan pelesenan yang mengesahkan bahawa anda mempunyai lesen untuk menggunakan Aplikasi Microsoft 365 untuk perusahaan. Data perkhidmatan yang diperlukan tentang perkhidmatan berikut dikumpulkan dan dihantar kepada Microsoft, tidak kira seting dasar lain yang telah anda konfigurasikan.
+Terdapat juga satu set perkhidmatan yang penting untuk fungsi Aplikasi Microsoft 365 untuk perusahaan dan tidak boleh dinyahdayakan. Contohnya, perkhidmatan pelesenan yang mengesahkan bahawa anda mempunyai lesen untuk menggunakan Aplikasi Microsoft 365 untuk perusahaan. Data perkhidmatan yang diperlukan tentang perkhidmatan berikut dikumpulkan dan dihantar kepada Microsoft, tidak kira seting dasar lain yang telah anda konfigurasikan.
 
 Untuk maklumat lanjut, lihat [Perkhidmatan penting Office](essential-services.md).
 
