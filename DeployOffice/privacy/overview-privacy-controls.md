@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Memberi pentadbir Office gambaran keseluruhan kawalan privasi untuk Aplikasi Microsoft 365 untuk perusahaan (sebelum ini dinamakan Office 365 ProPlus), termasuk untuk data diagnostik dan pengalaman terhubung.
 hideEdit: true
-ms.openlocfilehash: e22388cb73a539e13f67163bf0b0e949b10be349
-ms.sourcegitcommit: 3890a23390edd0b5fdb2cf33613ec0778566cf97
+ms.openlocfilehash: 134f7470354796679c9a8c69fac8dd2559302b72
+ms.sourcegitcommit: f8201a088d2b160b6fcec2342e11be0e9ba3d189
 ms.translationtype: HT
 ms.contentlocale: ms-MY
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43993098"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44663545"
 ---
 # <a name="overview-of-privacy-controls-for-microsoft-365-apps-for-enterprise"></a>Gambaran keseluruhan kawalan privasi untuk Aplikasi Microsoft 365 untuk perusahaan
 
@@ -37,7 +37,7 @@ Sebagai sebahagian daripada perubahan ini, terdapat unsur antara muka pengguna (
 > - Perubahan ini juga digunakan pada yang berikut:
 >   - Aplikasi Office untuk Mac yang berikut: Excel, Outlook, OneNote, PowerPoint dan Word versi 16.28 atau kemudian.
 >   - Project dan Visio untuk desktop versi 1904 atau lebih tinggi yang disertakan dengan beberapa pelan langganan, seperti Project Pelan 5 atau Visio Pelan 2.
-> - Kawalan privasi ini disertakan dalam Versi 1908 atau lebih tinggi bagi Saluran Separa Tahunan (Disasarkan) dan Saluran Separa Tahunan.
+> - Kawalan privasi ini disertakan dalam Versi 1908 atau lebih baru Saluran Perusahaan Separuh Tahunan (Pratonton) dan Saluran Perusahaan Separuh Tahunan.
 > - Kawalan privasi ini tersedia untuk Versi 2.30 dan lebih baru daripada versi iOS untuk Excel, OneNote, PowerPoint dan Word serta Versi 1.17 dan lebih baru bagi Visio Viewer untuk iOS.
 > - Kawalan privasi ini tersedia untuk Versi 16.0.12226.10000 dan lebih baru bagi versi iOS untuk Excel, PowerPoint dan Word serta Versi 16.0.12228.20004 dan lebih baru bagi OneNote untuk Android.
 > - Kebanyakan Office untuk aplikasi web menggunakan kawalan privasi baru bagi [pengalaman terhubung pilihan](optional-connected-experiences.md). Aplikasi tersebut adalah seperti berikut: Excel untuk web, OneNote untuk web, PowerPoint untuk web, Visio untuk web, dan Word untuk web. Anda boleh menggunakan [perkhidmatan dasar awan Office](../overview-office-cloud-policy-service.md) untuk mengkonfigurasikan [seting dasar](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) yang sesuai.
