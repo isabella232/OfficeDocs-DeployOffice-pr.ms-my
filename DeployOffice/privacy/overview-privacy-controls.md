@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Memberi pentadbir Office gambaran keseluruhan kawalan privasi untuk Aplikasi Microsoft 365 untuk perusahaan (sebelum ini dinamakan Office 365 ProPlus), termasuk untuk data diagnostik dan pengalaman terhubung.
 hideEdit: true
-ms.openlocfilehash: 134f7470354796679c9a8c69fac8dd2559302b72
-ms.sourcegitcommit: f8201a088d2b160b6fcec2342e11be0e9ba3d189
+ms.openlocfilehash: f5a957d57a7c8f95503091f456aef5a9c1e0fca7
+ms.sourcegitcommit: f441b1a5f8853c0941b3e23c7781c89abf0be641
 ms.translationtype: HT
 ms.contentlocale: ms-MY
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44663545"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45087693"
 ---
 # <a name="overview-of-privacy-controls-for-microsoft-365-apps-for-enterprise"></a>Gambaran keseluruhan kawalan privasi untuk Aplikasi Microsoft 365 untuk perusahaan
 
@@ -85,7 +85,7 @@ Aplikasi Microsoft 365 untuk perusahaan terdiri daripada aplikasi perisian klien
 
 Kami faham bahawa anda mungkin mahu memilih jenis pengalaman terhubung yang tersedia untuk para pengguna anda apabila mengendalikan aplikasi Office. Sebagai pentadbir organisasi, anda mempunyai seting dasar yang membenarkan anda untuk memilih sama ada untuk memberikan jenis pengalaman terhubung yang berikut kepada pengguna anda:
 
-- **Pengalaman yang menganalisis kandungan anda** Pengalaman yang menggunakan kandungan Office anda untuk memberikan nasihat reka bentuk, cadangan pengeditan, pemahaman data dan ciri seumpamanya. Contohnya, PowerPoint Designer atau Editor dalam Word.
+- **Pengalaman yang menganalisis kandungan anda** Pengalaman yang menggunakan kandungan Office anda untuk memberikan nasihat reka bentuk, cadangan pengeditan, pemahaman data dan ciri seumpamanya. Contohnya, Pereka PowerPoint atau Penterjemah.
 
 - **Pengalaman yang memuat turun kandungan dalam talian** Pengalaman yang membenarkan anda untuk mencari dan memuat turun kandungan dalam talian termasuk templat, imej, model 3D, video dan bahan rujukan untuk menambah baik dokumen anda. Contohnya, templat Office atau Pemula Pantas PowerPoint.
 
